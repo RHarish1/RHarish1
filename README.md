@@ -54,9 +54,7 @@ Find my work on [GitHub](https://github.com/RHarish1).
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RHarish1&layout=compact&theme=tokyonight" alt="Top Languages" />
     </td>
-  </tr>
-  <tr>
-    <td align="center">
+    <td>
       <img src="https://streak-stats.demolab.com?user=RHarish1&theme=tokyonight&border_radius=8" alt="GitHub Streak" />
     </td>
   </tr>
