@@ -14,8 +14,6 @@ I'm a passionate tech enthusiast currently pursuing my ***B.Tech*** in ***Comput
 
 
 
-Find my work on [GitHub](https://github.com/RHarish1).
-
 ## 🚀 Skills & Technologies
 
 #### Domains:
