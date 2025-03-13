@@ -4,21 +4,18 @@
 
 ---
 
-### About Me
-I'm a passionate tech enthusiast currently pursuing my ***B.Tech*** in ***Computer Engineering***. My focus lies in machine learning, web development, and algorithmic problem-solving, driven by a passion for creating real-world solutions.
+### About Me  
+I'm a passionate tech enthusiast currently pursuing my ***B.Tech*** in ***Computer Engineering***. My focus lies in machine learning, web development, and algorithmic problem-solving, driven by a passion for creating real-world solutions.  
 
+- 🛠️ Specializing in **machine learning** and **deep learning**, I create robust, data-driven models using cutting-edge frameworks like TensorFlow and PyTorch.  
+- 🌱 Exploring new areas and constantly learning **scalable architectures** and system performance enhancements.  
+- 🌐 Developing **full-stack applications** using the **MERN stack**, focusing on backend development with **Node.js & Express.js** and frontend with **React.js & Next.js**.  
 
-- 🛠️ Specializing in **machine learning** and **deep learning**, I create robust, data-driven models using cutting-edge frameworks like TensorFlow and PyTorch.
-- 🌱 Exploring new areas and constantly learning **scalable architectures** and system performance enhancements.
-- 🌐 Starting to learn **full-stack development**, focusing on back-end technologies like Flask and front-end with HTML/CSS.
+## 🚀 Skills & Technologies  
 
-
-
-## 🚀 Skills & Technologies
-
-#### Domains:
-- 💻 **Machine Learning & Data Science**: Building models using various frameworks and libraries.
-- 🌐 **Web Development**: Developing web applications with Flask and modern HTML/CSS.
+#### Domains:  
+- 💻 **Machine Learning & Data Science**: Building models using various frameworks and libraries.  
+- 🌐 **Web Development**: Designing and developing full-stack web applications using the **MERN stack** (MongoDB, Express.js, React.js, Node.js), integrating REST APIs, authentication, and scalable database architectures.  
 
 #### Languages:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -26,6 +23,7 @@ I'm a passionate tech enthusiast currently pursuing my ***B.Tech*** in ***Comput
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
 ![Bash](https://img.shields.io/badge/-BASH-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 #### Frameworks & Libraries:
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -36,8 +34,13 @@ I'm a passionate tech enthusiast currently pursuing my ***B.Tech*** in ***Comput
 
 #### Web Technologies:
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
 
 #### Tools & Platforms:
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
